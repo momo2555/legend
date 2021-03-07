@@ -1,0 +1,3 @@
+[submodule "legend_esp"]
+	path = legend_esp
+	url = https://github.com/S6ril/legend_esp.git
