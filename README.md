@@ -14,3 +14,5 @@ Pour ajouter un sous module, il faut :
 
 Maintenant le repo principale a un lien vers le sous-module.
 
+:warning: Le sous module est lié à un commit. Donc si le sous module est modifié, il faut aussi comit les changements sur ce repo. En développement, on peut commit à chaques nouvelles fonctionnalités ajoutées.
+
